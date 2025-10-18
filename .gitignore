@@ -179,3 +179,24 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Ignore data and notebooks
+data/raw/
+data/cleaned/
+*.csv
+*.ipynb
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+# Ignore data and notebooks
+data/raw/
+data/cleaned/
+*.csv
+*.ipynb
