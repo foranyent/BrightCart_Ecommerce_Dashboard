@@ -197,6 +197,5 @@ venv/
 Thumbs.db
 # Ignore data and notebooks
 data/raw/
-data/cleaned/
-*.csv
+
 *.ipynb
