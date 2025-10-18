@@ -37,7 +37,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-👉 [View the App on Streamlit Cloud](https://brightcart-ecommerce-dashboard.streamlit.app)
+👉 [View the App on Streamlit Cloud](https://brightcart-dashboard.streamlit.app)
 
 ---
 
